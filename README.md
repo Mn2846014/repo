@@ -1,4 +1,9 @@
 # repo
+/*Option 1: Business Program
+Write a Java program to place order and set appointment for delivery of goods or services from a 
+business of your choice (restaurant, grocery, mobile pet spa, mobile car detailer, home cleaning, home 
+repair/improvement, mobile car repair, etc....). *Note: JDatePicker Swing library can be used in this 
+option, but not required.*/
 import java.util.*;
 class PersonDetails
 {
